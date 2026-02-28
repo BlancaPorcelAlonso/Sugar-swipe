@@ -1,11 +1,11 @@
 
-# 🎮 Candy Crush – Match-3 en C++
+# Match-3 en C++
 
 Proyecto desarrollado en **C++** que implementa un juego tipo *Match-3*, centrado en la aplicación práctica de programación orientada a objetos, estructuras de datos y lógica de validación de movimientos.
 
 ---
 
-## 🚀 Descargar ejecutable
+## Descargar ejecutable
 
 La versión lista para usar está disponible descargando el archivo `.zip` **Sugar Swipe**, descomprímelo y ejecuta:
 
@@ -15,7 +15,7 @@ CandyCrush.exe
 
 ---
 
-## 🧠 Conceptos y conocimientos aplicados
+## Conceptos y conocimientos aplicados
 
 Este proyecto no solo reproduce la mecánica básica de un Match-3, sino que pone en práctica:
 
@@ -31,7 +31,7 @@ Este proyecto no solo reproduce la mecánica básica de un Match-3, sino que pon
 
 ---
 
-## 🎯 Funcionalidades implementadas
+## Funcionalidades implementadas
 
 * Intercambio de piezas
 * Validación de movimientos legales
@@ -42,7 +42,7 @@ Este proyecto no solo reproduce la mecánica básica de un Match-3, sino que pon
 
 ---
 
-## 💻 Requisitos
+## Requisitos
 
 * Windows 64 bits
 * No requiere instalación adicional
